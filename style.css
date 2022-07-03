@@ -1,0 +1,25 @@
+.line {
+    background-color:plum;
+    height:6px;
+    width: 80px;
+    margin: 6px auto;
+}
+
+body {
+    background-image: url("https://i.pinimg.com/originals/0b/59/34/0b5934b623f3c6f5377f221959d77982.gif");
+    background-size: cover;
+    color: whitesmoke;
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+}
+
+img {
+    border: 5px ridge white;
+    border-radius: 10%;
+    margin: 10px;
+    padding: 5px;
+}
+
+img:hover {
+    transform: scale(1.2);
+}
